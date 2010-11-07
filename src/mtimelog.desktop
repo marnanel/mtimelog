@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.10
+Type=Application
+Name=mtimelog
+Exec=python /opt/mtimelog/controller.py
+Icon=mtimelog
+X-Icon-path=/usr/share/pixmaps/
