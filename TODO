@@ -1,0 +1,6 @@
+- add a status menu entry (this can't be done in Python)
+- add git integration so it can sync your stuff simply
+- write the help
+- debianise it
+- add option to start/stop task by flipping the device over (thanks, burchr)
+
